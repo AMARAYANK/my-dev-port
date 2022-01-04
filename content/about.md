@@ -17,7 +17,7 @@ color = 'white'
   *fundmyfest.com for my roommate to find sponsors for our college fest - turns*
  *out hacking together few pages taught me a lot about HTML and CSS! This sparked my curiosity for programming.*
  {{< mySpace2 >}}
- *During my college days, I had a startup of cloud kitchen which was entirely operated by myself from end to end. I believe this is one of the event which has shaped my identity.* 
+ *During my college days, I also had a startup of night food delivery kinda cloud kitchen called **Moonlight Feast** which was entirely operated by myself from end to end. I believe this is one of the event which has shaped my identity.* 
  *The major learnings from I had with my first startup is about the entrepreneurial culture which*
  *is characterized by bluntness. One must think analytically and have an open culture towards* *criticism. I believe it is better to lay out the actual facts and not be afraid to share bad news.*
  *This has also made me diligent, meticulous and good at planning. Alongwith, all of this one of the most important skilksets which I developed is strong interpersonal skills and learnt the diplomatic approach of managerial communication.*
