@@ -26,10 +26,6 @@ color = 'white'
  {{< mySpace2 >}}
  *Additionally, I like watching TV series, listening podcasts, reading books, engaging in quality conversations, learning new recipes in cooking, going for a long walk.*
 
- *Fast-forward to today, besides front-end development, my interests extend to back-end development and learning golang and elixir. I’m particularly interested in distributed systems, how they work, their reliability and scalability.*
-
- *Apart from computers, I enjoy reading, walking, listening to rock music and sometimes metal.*
-
 *If you have any questions or just want to chat, you can reach out to me on [LinkedIn](https://www.linkedin.com/in/amarayank). or shoot me an email.*
 
  {{< mySpace >}}
