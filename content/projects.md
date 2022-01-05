@@ -21,3 +21,7 @@ myHeading = ''
  ✨ *Markdown Editor* ✨ 
 {{< markdown >}}
 
+{{< mySpace >}}
+
+ ✨ *Browser Tabs and Routing* ✨ 
+{{< browserTabs >}}
