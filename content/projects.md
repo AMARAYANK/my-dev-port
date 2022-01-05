@@ -30,3 +30,8 @@ myHeading = ''
 
  ✨ *Paper Rock Scissors* ✨ 
 {{< rockPaper >}}
+
+{{< mySpace >}}
+
+ ✨ *Moving Link Across a <canvas>* ✨ 
+{{< movingLink >}}
