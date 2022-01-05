@@ -25,3 +25,8 @@ myHeading = ''
 
  ✨ *Browser Tabs and Routing* ✨ 
 {{< browserTabs >}}
+
+{{< mySpace >}}
+
+ ✨ *Paper Rock Scissors* ✨ 
+{{< rockPaper >}}
