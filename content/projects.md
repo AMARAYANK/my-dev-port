@@ -33,5 +33,5 @@ myHeading = ''
 
 {{< mySpace >}}
 
- ✨ *Moving Link Across a <canvas>* ✨ 
+ ✨ *Moving Link Across a canvas* ✨ 
 {{< movingLink >}}
